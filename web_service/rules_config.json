@@ -1,0 +1,249 @@
+{
+  "Rules": [
+    {
+      "description": "Главная страница - редирект в зависимости от времени",
+      "conditions": {
+        "path.name=": "/"
+      },
+      "target": {
+        "Rules": [
+          {
+            "description": "Утренние предложения (5:00-11:00)",
+            "conditions": {
+              "time.hour:range": "[5, 11]"
+            },
+            "target": "https://www.starbucks.com/morning-deals"
+          },
+          {
+            "description": "Дневные предложения (12:00-17:00)",
+            "conditions": {
+              "time.hour:range": "[12, 17]"
+            },
+            "target": "https://www.starbucks.com/lunch-menu"
+          },
+          {
+            "description": "Вечерние предложения (18:00-22:00)",
+            "conditions": {
+              "time.hour:range": "[18, 22]"
+            },
+            "target": "https://www.starbucks.com/evening-offer"
+          },
+          {
+            "description": "Ночные предложения (23:00-4:00)",
+            "conditions": {
+              "time.hour:range": "[23, 4]"
+            },
+            "target": "https://www.starbucks.com/night-coffee"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Страница загрузки - браузер-специфичные редиректы",
+      "conditions": {
+        "path.name=": "/download"
+      },
+      "target": {
+        "Rules": [
+          {
+            "conditions": {
+              "browser.name=": "chrome"
+            },
+            "target": "https://www.google.com/chrome"
+          },
+          {
+            "conditions": {
+              "browser.name=": "firefox"
+            },
+            "target": "https://www.mozilla.org/firefox"
+          },
+          {
+            "conditions": {
+              "browser.name=": "edge"
+            },
+            "target": "https://www.microsoft.com/edge"
+          },
+          {
+            "conditions": {
+              "browser.name=": "safari"
+            },
+            "target": "https://www.apple.com/safari"
+          },
+          {
+            "description": "Любой другой браузер",
+            "conditions": {},
+            "target": "https://www.mozilla.org/firefox"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Языковые редиректы для страницы приветствия",
+      "conditions": {
+        "path.name=": "/welcome"
+      },
+      "target": {
+        "Rules": [
+          {
+            "conditions": {
+              "language.language=": "en"
+            },
+            "target": "https://www.example.com/en/welcome"
+          },
+          {
+            "conditions": {
+              "language.language=": "fr"
+            },
+            "target": "https://www.example.com/fr/bienvenue"
+          },
+          {
+            "conditions": {
+              "language.language=": "de"
+            },
+            "target": "https://www.example.com/de/willkommen"
+          },
+          {
+            "description": "Язык по умолчанию",
+            "conditions": {},
+            "target": "https://www.example.com/en/welcome"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Сезонные предложения - путь /seasonal",
+      "conditions": {
+        "path.name=": "/seasonal"
+      },
+      "target": {
+        "Rules": [
+          {
+            "description": "Рождество (декабрь)",
+            "conditions": {
+              "time.month:range": "[12, 12]"
+            },
+            "target": "https://www.amazon.com/holiday-deals"
+          },
+          {
+            "description": "Лето (июнь-август)",
+            "conditions": {
+              "time.month:range": "[6, 8]"
+            },
+            "target": "https://www.zara.com/summer-sale"
+          },
+          {
+            "description": "Весна (март-май)",
+            "conditions": {
+              "time.month:range": "[3, 5]"
+            },
+            "target": "https://www.hm.com/spring-collection"
+          },
+          {
+            "description": "Осень (сентябрь-ноябрь)",
+            "conditions": {
+              "time.month:range": "[9, 11]"
+            },
+            "target": "https://www.uniqlo.com/autumn-styles"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Специальные предложения по дням недели",
+      "conditions": {
+        "path.name=": "/daily-offers"
+      },
+      "target": {
+        "Rules": [
+          {
+            "description": "Понедельник - скидки на кофе",
+            "conditions": {
+              "time.day:range": "[1, 1]"
+            },
+            "target": "https://www.starbucks.com/monday-deals"
+          },
+          {
+            "description": "Среда - скидки на технологии",
+            "conditions": {
+              "time.day:range": "[3, 3]"
+            },
+            "target": "https://www.bestbuy.com/wednesday-tech"
+          },
+          {
+            "description": "Пятница - скидки на еду",
+            "conditions": {
+              "time.day:range": "[5, 5]"
+            },
+            "target": "https://www.mcdonalds.com/friday-special"
+          },
+          {
+            "description": "Выходные - семейные предложения",
+            "conditions": {
+              "time.day:range": "[6, 7]"
+            },
+            "target": "https://www.disney.com/weekend-fun"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Комплексное правило: браузер + язык + время",
+      "conditions": {
+        "path.name=": "/personalized"
+      },
+      "target": {
+        "Rules": [
+          {
+            "description": "Chrome + русский + утро",
+            "conditions": {
+              "browser.name=": "chrome",
+              "language.language=": "ru",
+              "time.hour:range": "[5, 11]"
+            },
+            "target": "https://www.google.ru/morning-chrome-ru"
+          },
+          {
+            "description": "Safari + английский + вечер",
+            "conditions": {
+              "browser.name=": "safari",
+              "language.language=": "en",
+              "time.hour:range": "[18, 22]"
+            },
+            "target": "https://www.apple.com/evening-safari-en"
+          },
+          {
+            "description": "Firefox + французский + день",
+            "conditions": {
+              "browser.name=": "firefox",
+              "language.language=": "fr",
+              "time.hour:range": "[12, 17]"
+            },
+            "target": "https://www.mozilla.fr/firefox-day-fr"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Техническая поддержка - путь /support",
+      "conditions": {
+        "path.name=": "/support"
+      },
+      "target": {
+        "Rules": [
+          {
+            "description": "Рабочее время (9:00-18:00)",
+            "conditions": {
+              "time.hour:range": "[9, 18]"
+            },
+            "target": "https://support.microsoft.com/live-chat"
+          },
+          {
+            "description": "Ночное время",
+            "conditions": {},
+            "target": "https://support.microsoft.com/night-bot"
+          }
+        ]
+      }
+    }
+  ]
+}
