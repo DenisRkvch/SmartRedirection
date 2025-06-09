@@ -1,0 +1,7 @@
+<map id="KafkaConsumer::stop" name="KafkaConsumer::stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,31,427,57"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="93,5,143,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,37,143,24,143,19,263,32"/>
+<area shape="rect" id="Node000003" href="$class_kafka_consumer.html#a4dd0e33f7341f6de09f7f470fa785dca" title=" " alt="" coords="5,56,231,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,56,231,60,231,55,263,51"/>
+</map>

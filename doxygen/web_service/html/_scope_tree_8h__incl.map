@@ -1,0 +1,30 @@
+<map id="core/IoCContainer/ScopeTree.h" name="core/IoCContainer/ScopeTree.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="56,5,262,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,155,72,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,34,115,82,68,144,64,141,110,78,147,31"/>
+<area shape="rect" id="Node000003" href="$_i_functor_8h.html" title=" " alt="" coords="192,304,326,331"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,35,87,60,41,95,23,115,12,136,9,158,16,180,32,202,51,222,95,255,144,280,191,297,189,302,142,284,93,260,47,226,28,206,11,183,3,158,7,134,19,112,37,91,85,55,130,30"/>
+<area shape="rect" id="Node000005" href="$_i_io_c_container_8h.html" title=" " alt="" coords="176,229,342,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="199,30,241,48,288,74,332,109,351,130,367,153,371,165,370,177,359,196,338,213,313,225,310,221,335,208,355,193,365,175,365,166,362,156,347,133,329,113,285,78,239,53,197,35"/>
+<area shape="rect" id="Node000007" href="$_scope_8h.html" title=" " alt="" coords="124,80,194,107"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="162,33,162,64,156,64,156,33"/>
+<area shape="rect" id="Node000010" href="$_io_c_8h.html" title=" " alt="" coords="427,155,534,181"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="262,27,337,45,375,59,410,78,444,107,468,140,464,143,440,111,407,82,373,64,336,50,261,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="331,379,408,405"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,329,339,368,336,372,277,333"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="262,257,262,288,256,288,256,257"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="370,304,423,331"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="284,254,360,294,358,299,282,259"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="141,109,82,148,79,144,138,105"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="158,108,153,136,150,174,153,216,167,255,186,278,212,295,209,299,183,282,162,257,148,217,144,174,148,135,153,107"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="163,106,171,141,188,180,206,201,227,218,224,222,202,205,183,183,166,143,158,107"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="294,155,352,181"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="189,105,281,145,279,150,187,110"/>
+<area shape="rect" id="Node000009" href="$_i_scope_8h.html" title=" " alt="" coords="197,155,270,181"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="174,105,212,142,208,146,170,109"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="241,181,252,214,247,215,236,183"/>
+<area shape="poly" id="edge17_Node000010_Node000003" title=" " alt="" coords="464,184,355,258,293,298,291,293,352,254,461,180"/>
+<area shape="poly" id="edge16_Node000010_Node000004" title=" " alt="" coords="482,182,470,249,457,291,437,332,421,353,401,371,398,367,417,350,433,329,452,289,465,248,477,181"/>
+<area shape="poly" id="edge18_Node000010_Node000005" title=" " alt="" coords="443,184,313,226,312,221,441,179"/>
+<area shape="poly" id="edge15_Node000010_Node000006" title=" " alt="" coords="476,183,413,292,409,289,471,181"/>
+</map>

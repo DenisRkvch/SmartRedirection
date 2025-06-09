@@ -1,0 +1,9 @@
+<map id="IRuleEngine" name="IRuleEngine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="176,5,286,96"/>
+<area shape="rect" id="Node000002" href="$class_rule_interpreter.html" title=" " alt="" coords="5,144,123,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,108,120,146,116,142,164,103"/>
+<area shape="rect" id="Node000003" href="$class_using_plugins_decorator.html" title=" " alt="" coords="148,144,314,235"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,111,234,144,228,144,228,111"/>
+<area shape="rect" id="Node000004" href="$class_using_thread_scope_decorator.html" title=" " alt="" coords="338,144,538,235"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,94,373,142,370,146,297,99"/>
+</map>

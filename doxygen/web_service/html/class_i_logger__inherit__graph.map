@@ -1,0 +1,7 @@
+<map id="ILogger" name="ILogger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,5,155,75"/>
+<area shape="rect" id="Node000002" href="$class_fallback_logger.html" title=" " alt="" coords="5,133,104,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,89,76,135,72,132,99,86"/>
+<area shape="rect" id="Node000003" href="$class_kafka_loggar_adapter.html" title=" " alt="" coords="128,123,278,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,86,179,122,174,124,153,88"/>
+</map>

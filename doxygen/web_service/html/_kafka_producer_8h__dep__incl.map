@@ -1,0 +1,9 @@
+<map id="logger/KafkaProducer.h" name="logger/KafkaProducer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,5,287,32"/>
+<area shape="rect" id="Node000002" href="$_kafka_logger_adapter_8h.html" title=" " alt="" coords="12,80,202,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,44,126,82,123,77,177,39"/>
+<area shape="rect" id="Node000004" href="$_kafka_producer_8cpp.html" title=" " alt="" coords="225,80,397,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,39,295,77,291,82,237,44"/>
+<area shape="rect" id="Node000003" href="$_kafka_logger_adapter_8cpp.html" title=" " alt="" coords="5,155,209,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,122,110,154,104,154,104,122"/>
+</map>

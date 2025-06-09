@@ -1,0 +1,18 @@
+<map id="json_pointer::pop_back" name="json_pointer::pop_back">
+<area shape="rect" id="Node000001" title="remove last reference token" alt="" coords="5,63,161,90"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1out__of__range.html#a79ea0d3ec02a853629dc827e045ecff5" title=" " alt="" coords="209,26,344,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,62,193,57,194,62,161,67"/>
+<area shape="rect" id="Node000008" href="$classjson__pointer.html#a5c3d08bd0a0e99c3377db33600c68a64" title="return whether pointer points to the root document" alt="" coords="209,92,344,119"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="161,85,194,90,193,96,160,91"/>
+<area shape="rect" id="Node000003" href="$namespacedetail.html#a266fb3d4bf633ad6c506434cc91164da" title=" " alt="" coords="596,34,696,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,22,392,11,470,3,549,11,600,25,598,30,548,16,470,8,392,16,342,28"/>
+<area shape="rect" id="Node000006" href="$classdetail_1_1exception.html#a6b4a786b5c1c25dd3edaceb1bf2d5120" title=" " alt="" coords="408,26,532,68"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="345,44,393,44,393,50,345,50"/>
+<area shape="rect" id="Node000007" href="$classdetail_1_1exception.html#a8f1eb56b9964c8dd84d89d0da98d883b" title=" " alt="" coords="392,92,548,119"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="345,65,410,85,408,90,344,70"/>
+<area shape="rect" id="Node000004" href="$namespacedetail.html#a89f967b745cf8df11ba9d59f93d97753" title=" " alt="" coords="751,8,878,35"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="696,37,735,31,736,36,697,42"/>
+<area shape="rect" id="Node000005" href="$namespacedetail.html#ac185140ed8c8fcc07a302a890b714b0d" title=" " alt="" coords="744,59,885,86"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="697,52,729,57,728,62,696,57"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="513,89,547,78,590,63,591,68,549,83,515,94"/>
+</map>

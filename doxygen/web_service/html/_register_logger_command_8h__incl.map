@@ -1,0 +1,9 @@
+<map id="core/Commands/RegisterLoggerCommand.h" name="core/Commands/RegisterLoggerCommand.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,306,48"/>
+<area shape="rect" id="Node000002" href="$_i_command_8h.html" title=" " alt="" coords="5,96,114,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,51,96,90,93,86,163,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,96,264,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,49,204,80,198,80,198,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="288,96,359,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,46,293,85,290,90,231,51"/>
+</map>

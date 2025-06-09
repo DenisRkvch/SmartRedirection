@@ -1,0 +1,9 @@
+<map id="ChainMessageHandler" name="ChainMessageHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,144,247,277"/>
+<area shape="rect" id="Node000003" href="$class_console_logger_handler.html" title=" " alt="" coords="5,336,148,405"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,291,97,338,92,335,117,289"/>
+<area shape="rect" id="Node000004" href="$class_file_logger_handler.html" title=" " alt="" coords="172,325,317,416"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,289,224,324,219,327,200,291"/>
+<area shape="rect" id="Node000002" href="$class_i_message_handler.html" title=" " alt="" coords="90,5,232,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,111,163,145,158,145,158,111"/>
+</map>

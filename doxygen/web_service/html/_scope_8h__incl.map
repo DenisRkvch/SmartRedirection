@@ -1,0 +1,19 @@
+<map id="core/IoCContainer/Scope.h" name="core/IoCContainer/Scope.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,5,261,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,52,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,35,67,76,64,71,145,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="76,80,133,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,34,128,70,124,67,158,31"/>
+<area shape="rect" id="Node000004" href="$_i_functor_8h.html" title=" " alt="" coords="106,229,239,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,33,175,214,170,214,169,33"/>
+<area shape="rect" id="Node000006" href="$_i_io_c_container_8h.html" title=" " alt="" coords="208,155,374,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="183,31,274,141,269,144,179,34"/>
+<area shape="rect" id="Node000008" href="$_i_scope_8h.html" title=" " alt="" coords="260,80,333,107"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="194,30,263,70,260,74,192,35"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="134,304,211,331"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="175,257,175,288,170,288,170,257"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="272,184,207,223,205,219,269,180"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="264,229,318,256"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="294,182,294,214,288,214,288,182"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="298,107,296,139,291,139,293,107"/>
+</map>

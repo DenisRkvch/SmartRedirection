@@ -1,0 +1,7 @@
+<map id="detail::other_error" name="detail::other_error">
+<area shape="rect" id="Node000001" title="exception indicating other library errors" alt="" coords="5,325,117,395"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1exception.html" title="general exception of the basic_json class" alt="" coords="8,123,114,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,292,64,326,58,326,58,292"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,5,108,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,90,64,123,58,123,58,90"/>
+</map>

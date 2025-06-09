@@ -1,0 +1,37 @@
+<map id="core/IoCContainer/Commands/IoCScopeNewCommand.cpp" name="core/IoCContainer/Commands/IoCScopeNewCommand.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,5,253,48"/>
+<area shape="rect" id="Node000002" href="$_io_c_scope_new_command_8h.html" title=" " alt="" coords="258,96,436,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,46,304,87,302,92,203,51"/>
+<area shape="rect" id="Node000012" href="$_io_c_8h.html" title=" " alt="" coords="5,245,124,272"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="111,51,84,71,63,97,52,131,50,166,53,200,59,229,54,230,48,201,44,166,47,130,58,95,80,67,108,46"/>
+<area shape="rect" id="Node000013" href="$_io_c_register_command_8h.html" title=" " alt="" coords="73,96,235,123"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="156,49,156,80,151,80,151,49"/>
+<area shape="rect" id="Node000003" href="$_i_command_8h.html" title=" " alt="" coords="174,171,294,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,125,268,164,265,160,326,121"/>
+<area shape="rect" id="Node000004" href="$_scope_8h.html" title=" " alt="" coords="318,171,400,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="352,123,357,155,352,156,347,124"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="148,245,194,272"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="327,200,210,245,208,240,325,195"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="418,245,476,272"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="376,196,422,233,419,237,373,200"/>
+<area shape="rect" id="Node000007" href="$_i_functor_8h.html" title=" " alt="" coords="178,395,311,421"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="365,197,370,226,372,265,368,308,352,348,329,373,301,390,298,386,326,369,348,345,363,307,367,265,364,227,360,198"/>
+<area shape="rect" id="Node000009" href="$_i_io_c_container_8h.html" title=" " alt="" coords="172,320,338,347"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="354,199,307,274,278,310,274,306,302,270,350,197"/>
+<area shape="rect" id="Node000011" href="$_i_scope_8h.html" title=" " alt="" coords="218,245,292,272"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="343,200,287,238,284,234,340,196"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="86,469,163,496"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="225,424,160,463,157,459,222,420"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="256,348,251,380,246,379,251,347"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="91,395,144,421"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="232,350,157,389,154,385,230,345"/>
+<area shape="poly" id="edge12_Node000011_Node000009" title=" " alt="" coords="258,273,258,304,252,304,252,273"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="79,270,162,345,215,383,212,388,159,349,75,274"/>
+<area shape="poly" id="edge15_Node000012_Node000008" title=" " alt="" coords="66,272,66,337,70,379,82,420,104,456,99,459,77,422,65,380,60,338,61,272"/>
+<area shape="poly" id="edge17_Node000012_Node000009" title=" " alt="" coords="99,270,209,312,207,317,97,275"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="72,272,111,379,106,381,67,273"/>
+<area shape="poly" id="edge19_Node000013_Node000003" title=" " alt="" coords="170,121,211,158,207,162,166,125"/>
+<area shape="poly" id="edge20_Node000013_Node000004" title=" " alt="" coords="190,121,310,163,308,168,189,126"/>
+<area shape="poly" id="edge22_Node000013_Node000005" title=" " alt="" coords="157,123,164,197,169,230,164,230,159,198,152,123"/>
+<area shape="poly" id="edge21_Node000013_Node000012" title=" " alt="" coords="148,125,82,233,78,231,144,122"/>
+</map>

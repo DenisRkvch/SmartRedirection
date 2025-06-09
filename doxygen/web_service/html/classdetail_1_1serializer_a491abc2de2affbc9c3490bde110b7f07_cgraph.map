@@ -1,0 +1,19 @@
+<map id="detail::serializer::for" name="detail::serializer::for">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,141,91"/>
+<area shape="rect" id="Node000002" href="$namespacedetail.html#a266fb3d4bf633ad6c506434cc91164da" title=" " alt="" coords="575,31,675,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,61,188,41,290,31,391,29,560,35,560,41,391,34,290,37,189,47,113,66"/>
+<area shape="rect" id="Node000005" href="$classdetail_1_1type__error.html#a2d25372628cf1e09ec67718f4bc42762" title=" " alt="" coords="197,56,315,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,75,181,75,181,80,141,80"/>
+<area shape="rect" id="Node000008" href="$classdetail_1_1binary__writer.html#a2822d4a58bbb0dc2198686da430e8906" title=" " alt="" coords="189,123,323,165"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="113,89,182,114,180,119,111,94"/>
+<area shape="rect" id="Node000003" href="$namespacedetail.html#a89f967b745cf8df11ba9d59f93d97753" title=" " alt="" coords="730,5,857,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="675,34,714,28,715,33,676,39"/>
+<area shape="rect" id="Node000004" href="$namespacedetail.html#ac185140ed8c8fcc07a302a890b714b0d" title=" " alt="" coords="723,56,864,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="676,49,708,54,707,59,675,54"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="315,69,560,47,560,52,316,75"/>
+<area shape="rect" id="Node000006" href="$classdetail_1_1exception.html#a6b4a786b5c1c25dd3edaceb1bf2d5120" title=" " alt="" coords="387,81,511,124"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="316,82,372,90,372,95,315,88"/>
+<area shape="rect" id="Node000007" href="$classdetail_1_1exception.html#a8f1eb56b9964c8dd84d89d0da98d883b" title=" " alt="" coords="371,148,527,175"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="302,97,324,108,372,134,388,140,386,145,370,138,322,113,300,102"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="502,145,526,134,568,102,601,68,605,71,571,106,529,138,504,150"/>
+</map>

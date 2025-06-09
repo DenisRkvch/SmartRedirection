@@ -1,0 +1,9 @@
+<map id="core/IoCContainer/Commands/IoCRegisterCommand.h" name="core/IoCContainer/Commands/IoCRegisterCommand.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,5,426,48"/>
+<area shape="rect" id="Node000002" href="$_io_c_register_command_8cpp.html" title=" " alt="" coords="5,96,204,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,57,158,98,156,93,260,52"/>
+<area shape="rect" id="Node000003" href="$_io_c_scope_new_command_8cpp.html" title=" " alt="" coords="228,96,426,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,64,330,96,324,96,324,64"/>
+<area shape="rect" id="Node000004" href="$_scope_tree_8cpp.html" title=" " alt="" coords="451,104,670,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="397,51,528,101,526,106,395,56"/>
+</map>

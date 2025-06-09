@@ -1,0 +1,9 @@
+<map id="ScopeTree::getScopeTreeInstance" name="ScopeTree::getScopeTreeInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="327,47,550,73"/>
+<area shape="rect" id="Node000002" href="$class_using_plugins_decorator.html#adf288ff7c768540210ab3d3590b49c3e" title=" " alt="" coords="113,5,268,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,47,269,40,269,34,320,41"/>
+<area shape="rect" id="Node000003" href="$class_init_io_c_container_command.html#a4c6662d52257165bf67309fc67468827" title=" " alt="" coords="103,72,279,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,79,280,84,279,79,319,73"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,80,55,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,96,55,96,55,91,87,91"/>
+</map>

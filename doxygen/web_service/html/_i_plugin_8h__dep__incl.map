@@ -1,0 +1,16 @@
+<map id="core/IPlugin.h" name="core/IPlugin.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="295,5,396,32"/>
+<area shape="rect" id="Node000002" href="$_register_conditions_command_8cpp.html" title=" " alt="" coords="5,80,238,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,40,180,82,178,77,296,35"/>
+<area shape="rect" id="Node000003" href="$_i_plugin_manager_8h.html" title=" " alt="" coords="262,88,429,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="348,48,348,88,343,88,343,48"/>
+<area shape="rect" id="Node000007" href="$plugin__api__dll_8h.html" title=" " alt="" coords="447,171,572,213"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="387,38,416,56,443,78,479,125,503,169,498,172,475,128,440,82,413,60,385,42"/>
+<area shape="rect" id="Node000004" href="$_io_c_plugin_manager_8h.html" title=" " alt="" coords="239,179,423,205"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="344,131,336,179,330,178,338,130"/>
+<area shape="rect" id="Node000005" href="$_using_plugins_decorator_8cpp.html" title=" " alt="" coords="177,261,386,288"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,220,291,263,287,260,313,217"/>
+<area shape="rect" id="Node000006" href="$_io_c_plugin_manager_8cpp.html" title=" " alt="" coords="410,261,609,288"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="374,210,483,258,481,263,372,215"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="512,229,512,261,507,261,507,229"/>
+</map>

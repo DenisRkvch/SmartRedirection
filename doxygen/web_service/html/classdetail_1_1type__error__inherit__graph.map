@@ -1,0 +1,7 @@
+<map id="detail::type_error" name="detail::type_error">
+<area shape="rect" id="Node000001" title="exception indicating executing a member function with a wrong type" alt="" coords="5,325,113,395"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1exception.html" title="general exception of the basic_json class" alt="" coords="6,123,112,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,292,62,326,56,326,56,292"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="13,5,106,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="62,90,62,123,56,123,56,90"/>
+</map>

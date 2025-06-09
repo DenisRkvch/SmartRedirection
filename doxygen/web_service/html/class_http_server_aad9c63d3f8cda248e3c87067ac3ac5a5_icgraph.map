@@ -1,0 +1,7 @@
+<map id="HttpServer::stop" name="HttpServer::stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,31,334,57"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="62,5,112,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,37,112,25,112,19,202,31"/>
+<area shape="rect" id="Node000003" href="$class_http_server.html#a5e9887bc9a815fc4b2b506a335d916af" title=" " alt="" coords="5,56,169,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,57,170,61,169,56,201,51"/>
+</map>

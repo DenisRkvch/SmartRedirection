@@ -149,39 +149,37 @@
       }
     },
     {
-      "description": "Специальные предложения по дням недели",
+      "description": "Специальные предложения по дням месяца",
       "conditions": {
-        "path.name=": "/daily-offers"
+        "path.name=": "/monthly-offers"
       },
       "target": {
         "Rules": [
           {
-            "description": "Понедельник - скидки на кофе",
+            "description": "1-е число - старт месяца",
             "conditions": {
-              "time.day:range": "[1, 1]"
+              "time.day=": "1"
             },
-            "target": "https://www.starbucks.com/monday-deals"
+            "target": "https://www.amazon.com/first-day-deals"
           },
           {
-            "description": "Среда - скидки на технологии",
+            "description": "15-е число - середина месяца",
             "conditions": {
-              "time.day:range": "[3, 3]"
+              "time.day=": "15"
             },
-            "target": "https://www.bestbuy.com/wednesday-tech"
+            "target": "https://www.apple.com/mid-month-sale"
           },
           {
-            "description": "Пятница - скидки на еду",
+            "description": "25-31 числа - конец месяца",
             "conditions": {
-              "time.day:range": "[5, 5]"
+              "time.day:range": "[25, 31]"
             },
-            "target": "https://www.mcdonalds.com/friday-special"
+            "target": "https://www.microsoft.com/end-of-month"
           },
           {
-            "description": "Выходные - семейные предложения",
-            "conditions": {
-              "time.day:range": "[6, 7]"
-            },
-            "target": "https://www.disney.com/weekend-fun"
+            "description": "Обычные дни - стандартные предложения",
+            "conditions": {},
+            "target": "https://www.default-offers.com/monthly"
           }
         ]
       }

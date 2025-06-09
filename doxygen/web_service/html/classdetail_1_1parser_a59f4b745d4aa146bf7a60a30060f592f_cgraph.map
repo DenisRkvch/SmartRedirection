@@ -1,0 +1,24 @@
+<map id="detail::parser::parse" name="detail::parser::parse">
+<area shape="rect" id="Node000001" title="public parser interface" alt="" coords="5,182,142,209"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1parse__error.html#a07046ea9f33d28f120af188ed674d6df" title="create a parse error exception" alt="" coords="223,25,348,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,180,125,131,155,102,188,77,208,67,210,72,191,82,159,106,129,134,87,184"/>
+<area shape="rect" id="Node000008" href="$classdetail_1_1json__sax__dom__callback__parser.html#a79ff296775dd21254de386fadee906a0" title=" " alt="" coords="214,92,358,150"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="113,179,198,149,200,154,115,184"/>
+<area shape="rect" id="Node000009" href="$classdetail_1_1json__sax__dom__parser.html#ae259ef999328a5342198d364676b1cbf" title=" " alt="" coords="214,174,358,217"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="142,193,198,193,198,198,142,198"/>
+<area shape="rect" id="Node000010" href="$classdetail_1_1json__sax__dom__callback__parser.html#a28d8cede1155ef900a1064d23cb645b7" title=" " alt="" coords="190,241,382,284"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="120,207,202,233,200,238,118,212"/>
+<area shape="rect" id="Node000011" href="$classdetail_1_1json__sax__dom__parser.html#a9227facf2424614f060607ed83f96a7d" title=" " alt="" coords="214,308,358,350"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="89,208,132,249,160,273,191,293,201,299,198,303,188,298,157,277,128,253,85,211"/>
+<area shape="rect" id="Node000003" href="$namespacedetail.html#a266fb3d4bf633ad6c506434cc91164da" title=" " alt="" coords="634,33,734,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,26,430,10,508,3,587,10,638,25,636,30,586,16,508,8,430,16,349,31"/>
+<area shape="rect" id="Node000006" href="$classdetail_1_1exception.html#a6b4a786b5c1c25dd3edaceb1bf2d5120" title=" " alt="" coords="446,25,570,68"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="349,44,430,44,430,49,349,49"/>
+<area shape="rect" id="Node000007" href="$classdetail_1_1exception.html#a8f1eb56b9964c8dd84d89d0da98d883b" title=" " alt="" coords="430,92,586,118"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="350,60,440,85,439,90,348,65"/>
+<area shape="rect" id="Node000004" href="$namespacedetail.html#a89f967b745cf8df11ba9d59f93d97753" title=" " alt="" coords="789,8,916,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="734,36,773,30,774,36,735,42"/>
+<area shape="rect" id="Node000005" href="$namespacedetail.html#ac185140ed8c8fcc07a302a890b714b0d" title=" " alt="" coords="782,58,923,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="735,51,767,56,766,61,734,57"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="551,89,585,77,628,63,629,68,587,82,553,94"/>
+</map>

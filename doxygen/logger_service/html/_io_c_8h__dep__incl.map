@@ -1,0 +1,30 @@
+<map id="core/IoCContainer/IoCCore/IoC.h" name="core/IoCContainer/IoCCore/IoC.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="694,5,875,48"/>
+<area shape="rect" id="Node000002" href="$_init_io_c_container_command_8cpp.html" title=" " alt="" coords="231,187,448,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="679,38,599,47,516,60,444,77,416,87,396,98,377,118,362,141,346,187,341,185,358,139,372,114,392,94,414,82,442,71,515,54,598,42,679,33"/>
+<area shape="rect" id="Node000003" href="$_register_logger_command_8cpp.html" title=" " alt="" coords="959,96,1168,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="865,51,999,93,997,98,864,56"/>
+<area shape="rect" id="Node000004" href="$_io_c_register_command_8h.html" title=" " alt="" coords="686,96,884,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="787,64,787,96,782,96,782,64"/>
+<area shape="rect" id="Node000006" href="$_io_c_scope_new_command_8cpp.html" title=" " alt="" coords="938,187,1136,229"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="835,54,897,94,949,137,1011,184,1007,188,946,141,894,98,832,58"/>
+<area shape="rect" id="Node000007" href="$_scope_tree_8cpp.html" title=" " alt="" coords="471,195,690,221"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="733,58,676,98,626,150,591,196,587,193,622,147,672,94,730,54"/>
+<area shape="rect" id="Node000008" href="$_io_c_connect_container_command_8h.html" title=" " alt="" coords="129,96,331,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="679,47,350,99,331,102,330,96,350,93,679,42"/>
+<area shape="rect" id="Node000010" href="$_io_c_8cpp.html" title=" " alt="" coords="1192,96,1372,139"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="891,43,1181,93,1192,95,1191,101,1180,99,890,48"/>
+<area shape="rect" id="Node000011" href="$_scope_tree_8h.html" title=" " alt="" coords="406,104,611,131"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="707,56,549,106,547,101,705,51"/>
+<area shape="rect" id="Node000012" href="$main_8cpp.html" title=" " alt="" coords="1397,104,1471,131"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="891,29,995,35,1120,47,1253,66,1385,93,1408,101,1406,106,1384,99,1253,71,1119,52,995,40,890,34"/>
+<area shape="rect" id="Node000005" href="$_io_c_register_command_8cpp.html" title=" " alt="" coords="715,187,913,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="799,153,810,186,805,187,794,154"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="859,142,978,183,977,189,857,147"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="724,148,611,197,609,192,722,143"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="269,146,315,184,312,188,265,151"/>
+<area shape="rect" id="Node000009" href="$_io_c_connect_container_command_8cpp.html" title=" " alt="" coords="5,187,207,229"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="190,150,137,188,133,184,187,146"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="472,141,380,189,377,184,470,136"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="530,141,572,192,568,196,526,145"/>
+</map>

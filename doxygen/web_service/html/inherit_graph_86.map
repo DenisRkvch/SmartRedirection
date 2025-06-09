@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_i_command.html" title=" " alt="" coords="5,208,91,235"/>
+<area shape="rect" id="Node000001" href="$class_init_io_c_container_command.html" title=" " alt="" coords="164,5,340,32"/>
+<area shape="poly" id="edge92_Node000000_Node000001" title=" " alt="" coords="53,192,64,157,80,117,105,76,137,42,163,28,165,32,140,46,109,79,85,119,69,159,58,194"/>
+<area shape="rect" id="Node000002" href="$class_io_c_change_current_scope_command.html" title=" " alt="" coords="139,56,366,83"/>
+<area shape="poly" id="edge93_Node000000_Node000002" title=" " alt="" coords="59,192,89,141,111,115,137,92,160,81,162,86,140,97,115,118,94,144,64,195"/>
+<area shape="rect" id="Node000003" href="$class_io_c_connect_container_command.html" title=" " alt="" coords="149,107,356,133"/>
+<area shape="poly" id="edge94_Node000000_Node000003" title=" " alt="" coords="70,195,100,168,137,143,167,131,169,136,140,148,103,172,73,199"/>
+<area shape="rect" id="Node000004" href="$class_io_c_register_command.html" title=" " alt="" coords="177,157,328,184"/>
+<area shape="poly" id="edge95_Node000000_Node000004" title=" " alt="" coords="105,202,138,193,186,182,187,187,139,199,106,207"/>
+<area shape="rect" id="Node000005" href="$class_io_c_scope_delete_command.html" title=" " alt="" coords="164,208,341,235"/>
+<area shape="poly" id="edge96_Node000000_Node000005" title=" " alt="" coords="106,219,163,219,163,224,106,224"/>
+<area shape="rect" id="Node000006" href="$class_io_c_scope_new_command.html" title=" " alt="" coords="169,259,336,285"/>
+<area shape="poly" id="edge97_Node000000_Node000006" title=" " alt="" coords="106,235,139,244,187,256,186,261,138,249,105,240"/>
+<area shape="rect" id="Node000007" href="$class_register_conditions_command.html" title=" " alt="" coords="156,309,348,336"/>
+<area shape="poly" id="edge98_Node000000_Node000007" title=" " alt="" coords="73,244,103,271,140,295,169,306,167,311,137,300,100,275,70,248"/>
+<area shape="rect" id="Node000008" href="$class_register_logger_command.html" title=" " alt="" coords="168,360,337,387"/>
+<area shape="poly" id="edge99_Node000000_Node000008" title=" " alt="" coords="64,248,94,299,115,324,140,346,168,359,166,364,137,350,111,328,89,302,59,250"/>
+<area shape="rect" id="Node000009" href="$class_register_rule_engine_command.html" title=" " alt="" coords="154,411,351,437"/>
+<area shape="poly" id="edge100_Node000000_Node000009" title=" " alt="" coords="58,249,69,284,85,324,109,363,140,397,159,408,156,412,137,401,105,367,80,326,64,285,53,251"/>
+</map>
